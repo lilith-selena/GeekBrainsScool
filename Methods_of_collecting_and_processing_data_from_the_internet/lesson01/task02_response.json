@@ -1,0 +1,1 @@
+{"error": {"error_code": 27, "error_msg": "Group authorization failed: method is unavailable with group auth.", "request_params": [{"key": "extended", "value": "1"}, {"key": "v", "value": "5.131"}, {"key": "method", "value": "groups.get"}, {"key": "oauth", "value": "1"}]}}
