@@ -1,0 +1,360 @@
+Microsoft Windows [Version 10.0.19045.2604]
+(c) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+C:\Users\LiLith>conda install -c conda-forge scrapy
+Collecting package metadata (current_repodata.json): done
+Solving environment: done
+
+
+==> WARNING: A newer version of conda exists. <==
+  current version: 22.9.0
+  latest version: 23.1.0
+
+Please update conda by running
+
+    $ conda update -n base -c defaults conda
+
+
+
+## Package Plan ##
+
+  environment location: C:\Users\LiLith\anaconda3
+
+  added / updated specs:
+    - scrapy
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    conda-23.1.0               |   py39hcbf5309_0         912 KB  conda-forge
+    python_abi-3.9             |           2_cp39           4 KB  conda-forge
+    ruamel.yaml-0.17.21        |   py39hb82d6ee_1         169 KB  conda-forge
+    ruamel.yaml.clib-0.2.6     |   py39h2bbff1b_1         101 KB
+    ------------------------------------------------------------
+                                           Total:         1.2 MB
+
+The following NEW packages will be INSTALLED:
+
+  python_abi         conda-forge/win-64::python_abi-3.9-2_cp39 None
+  ruamel.yaml        conda-forge/win-64::ruamel.yaml-0.17.21-py39hb82d6ee_1 None
+  ruamel.yaml.clib   pkgs/main/win-64::ruamel.yaml.clib-0.2.6-py39h2bbff1b_1 None
+
+The following packages will be UPDATED:
+
+  conda              pkgs/main::conda-22.9.0-py39haa95532_0 --> conda-forge::conda-23.1.0-py39hcbf5309_0 None
+
+
+Proceed ([y]/n)? n
+
+
+CondaSystemExit: Exiting.
+
+
+C:\Users\LiLith>cd Desctop
+Системе не удается найти указанный путь.
+
+C:\Users\LiLith>dir
+ Том в устройстве C имеет метку System
+ Серийный номер тома: 7465-8C98
+
+ Содержимое папки C:\Users\LiLith
+
+27.02.2023  17:12    <DIR>          .
+27.02.2023  17:12    <DIR>          ..
+21.10.2022  09:40    <DIR>          .anaconda
+08.10.2022  11:47    <DIR>          .android
+24.04.2022  19:24             6 130 .bash_history
+27.02.2023  17:08    <DIR>          .conda
+21.10.2022  09:37                25 .condarc
+21.10.2022  09:37    <DIR>          .continuum
+08.10.2022  11:47    <DIR>          .eclipse
+07.04.2022  20:50               130 .gitconfig
+27.02.2023  13:56    <DIR>          .ipynb_checkpoints
+27.02.2023  17:10    <DIR>          .ipython
+21.10.2022  09:38    <DIR>          .jupyter
+24.04.2022  19:23                20 .lesshst
+21.10.2022  14:49    <DIR>          .matplotlib
+07.10.2022  08:08    <DIR>          .ms-ad
+08.10.2022  11:47    <DIR>          .ssh
+24.04.2022  19:22             1 330 .viminfo
+08.10.2022  11:47    <DIR>          .VirtualBox
+08.10.2022  11:30    <DIR>          3D Objects
+20.02.2023  10:27    <DIR>          anaconda
+27.02.2023  16:35    <DIR>          anaconda3
+08.10.2022  13:16    <DIR>          ansel
+08.10.2022  11:30    <DIR>          Contacts
+11.12.2022  19:07           625 818 CP_PythonForDataScience.ipynb
+11.12.2022  15:47    <DIR>          cursovoi_razbor
+27.02.2023  16:05    <DIR>          Desktop
+27.02.2023  16:34    <DIR>          Documents
+27.02.2023  16:25    <DIR>          Downloads
+10.07.2022  16:53             1 914 exemple.sql
+08.10.2022  11:30    <DIR>          Favorites
+13.02.2023  11:03    <DIR>          GeekBrainsScool
+31.05.2022  19:24            74 725 java_error_in_pycharm64_1860.log
+23.05.2022  08:48            94 037 java_error_in_pycharm64_3792.log
+10.06.2022  13:33            57 075 java_error_in_pycharm64_3820.log
+31.05.2022  19:24            83 554 java_error_in_pycharm64_396.log
+25.02.2023  18:02           407 694 java_error_in_pycharm64_5192.log
+28.05.2022  18:50            80 233 java_error_in_pycharm64_572.log
+11.04.2022  14:05            99 435 java_error_in_pycharm64_5900.log
+11.04.2022  14:19           114 865 java_error_in_pycharm64_7108.log
+20.04.2022  14:01            95 909 java_error_in_pycharm64_7324.log
+18.05.2022  16:08            59 562 java_error_in_pycharm64_8068.log
+26.04.2022  11:56            57 494 java_error_in_pycharm64_844.log
+11.04.2022  14:02           116 515 java_error_in_pycharm64_8552.log
+16.02.2023  17:23           271 992 lesson02-2.ipynb
+27.02.2023  17:12            13 506 lesson05.ipynb
+08.10.2022  11:30    <DIR>          Links
+08.10.2022  11:30    <DIR>          Music
+11.12.2022  21:10    <DIR>          my_cursovoi
+07.10.2022  08:29    <DIR>          OneDrive
+05.12.2022  16:23    <DIR>          Pictures
+08.10.2022  11:51    <DIR>          project
+25.02.2023  18:05    <DIR>          PycharmProjects
+16.02.2023  17:06                 0 response.json
+08.10.2022  11:30    <DIR>          Saved Games
+05.12.2022  14:27    <DIR>          seaborn-data
+08.10.2022  11:47    <DIR>          Searches
+20.03.2022  16:50               367 Sti_Trace.log
+16.02.2023  16:03           471 282 Untitled.ipynb
+23.02.2023  18:52             4 040 Untitled1.ipynb
+27.02.2023  13:56             7 268 Untitled2.ipynb
+12.10.2022  15:09    <DIR>          Videos
+08.10.2022  11:53    <DIR>          VirtualBox VMs
+30.01.2023  17:03    <DIR>          YandexDisk
+30.01.2023  18:37    <DIR>          YandexDisk-ya.lilith-selena
+              26 файлов      2 744 920 байт
+              39 папок  62 808 702 976 байт свободно
+
+C:\Users\LiLith>cd Desktop
+
+C:\Users\LiLith\Desktop>dir
+ Том в устройстве C имеет метку System
+ Серийный номер тома: 7465-8C98
+
+ Содержимое папки C:\Users\LiLith\Desktop
+
+27.02.2023  16:05    <DIR>          .
+27.02.2023  16:05    <DIR>          ..
+25.04.2022  08:12             1 056 Adobe Connect.lnk
+08.07.2022  09:58             2 079 DBeaver.lnk
+08.10.2022  17:57             1 067 Light Alloy.lnk
+20.02.2023  15:08             2 354 MongoDBCompass.lnk
+06.06.2022  10:31             1 047 Movavi Screen Recorder 11.lnk
+08.10.2022  14:58             1 030 Reg Organizer.lnk
+27.02.2023  16:04    <DIR>          scrapy
+12.10.2022  18:51               994 XnView.lnk
+08.10.2022  19:01             2 168 Яндекс.Диск.lnk
+               8 файлов         11 795 байт
+               3 папок  62 808 694 784 байт свободно
+
+C:\Users\LiLith\Desktop>cd scrapy
+
+C:\Users\LiLith\Desktop\scrapy>conda install -c conda-forge scrapy
+Collecting package metadata (current_repodata.json): done
+Solving environment: done
+
+
+==> WARNING: A newer version of conda exists. <==
+  current version: 22.9.0
+  latest version: 23.1.0
+
+Please update conda by running
+
+    $ conda update -n base -c defaults conda
+
+
+
+## Package Plan ##
+
+  environment location: C:\Users\LiLith\anaconda3
+
+  added / updated specs:
+    - scrapy
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    conda-23.1.0               |   py39hcbf5309_0         912 KB  conda-forge
+    python_abi-3.9             |           2_cp39           4 KB  conda-forge
+    ruamel.yaml-0.17.21        |   py39hb82d6ee_1         169 KB  conda-forge
+    ruamel.yaml.clib-0.2.6     |   py39h2bbff1b_1         101 KB
+    ------------------------------------------------------------
+                                           Total:         1.2 MB
+
+The following NEW packages will be INSTALLED:
+
+  python_abi         conda-forge/win-64::python_abi-3.9-2_cp39 None
+  ruamel.yaml        conda-forge/win-64::ruamel.yaml-0.17.21-py39hb82d6ee_1 None
+  ruamel.yaml.clib   pkgs/main/win-64::ruamel.yaml.clib-0.2.6-py39h2bbff1b_1 None
+
+The following packages will be UPDATED:
+
+  conda              pkgs/main::conda-22.9.0-py39haa95532_0 --> conda-forge::conda-23.1.0-py39hcbf5309_0 None
+
+
+Proceed ([y]/n)? y
+
+
+Downloading and Extracting Packages
+python_abi-3.9       | 4 KB      | ############################################################################ | 100%
+ruamel.yaml.clib-0.2 | 101 KB    | ############################################################################ | 100%
+ruamel.yaml-0.17.21  | 169 KB    | ############################################################################ | 100%
+conda-23.1.0         | 912 KB    | ############################################################################ | 100%
+Preparing transaction: done
+Verifying transaction: done
+Executing transaction: done
+Retrieving notices: ...working... done
+
+C:\Users\LiLith\Desktop\scrapy>conda install -c anaconda pymongo
+Collecting package metadata (current_repodata.json): done
+Solving environment: done
+
+## Package Plan ##
+
+  environment location: C:\Users\LiLith\anaconda3
+
+  added / updated specs:
+    - pymongo
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    ca-certificates-2022.07.19 |       haa95532_0         162 KB  anaconda
+    certifi-2022.9.14          |   py39haa95532_0         159 KB  anaconda
+    conda-23.1.0               |   py39haa95532_0         980 KB  anaconda
+    openssl-1.1.1q             |       h2bbff1b_0         5.7 MB  anaconda
+    pymongo-3.12.0             |   py39hd77b12b_0         1.4 MB  anaconda
+    ------------------------------------------------------------
+                                           Total:         8.4 MB
+
+The following NEW packages will be INSTALLED:
+
+  pymongo            anaconda/win-64::pymongo-3.12.0-py39hd77b12b_0
+
+The following packages will be SUPERSEDED by a higher-priority channel:
+
+  ca-certificates                                 pkgs/main --> anaconda
+  certifi                                         pkgs/main --> anaconda
+  conda              conda-forge::conda-23.1.0-py39hcbf530~ --> anaconda::conda-23.1.0-py39haa95532_0
+  openssl                                         pkgs/main --> anaconda
+
+
+Proceed ([y]/n)? y
+
+
+Downloading and Extracting Packages
+
+Preparing transaction: done
+Verifying transaction: done
+Executing transaction: done
+
+C:\Users\LiLith\Desktop\scrapy>conda install -c anaconda pymongo
+Collecting package metadata (current_repodata.json): done
+Solving environment: done
+
+# All requested packages already installed.
+
+
+C:\Users\LiLith\Desktop\scrapy>scrapy startproject parser_job .
+New Scrapy project 'parser_job', using template directory 'C:\Users\LiLith\anaconda3\lib\site-packages\scrapy\templates\project', created in:
+    C:\Users\LiLith\Desktop\scrapy
+
+You can start your first spider with:
+    cd .
+    scrapy genspider example example.com
+
+C:\Users\LiLith\Desktop\scrapy>scrapy genspider hh_ru hh.ru
+Created spider 'hh_ru' using template 'basic' in module:
+  parser_job.spiders.hh_ru
+
+C:\Users\LiLith\Desktop\scrapy>scrapy crawl hh_ru
+Traceback (most recent call last):
+  File "C:\Users\LiLith\anaconda3\Scripts\scrapy-script.py", line 10, in <module>
+    sys.exit(execute())
+  File "C:\Users\LiLith\anaconda3\lib\site-packages\scrapy\cmdline.py", line 123, in execute
+    settings = get_project_settings()
+  File "C:\Users\LiLith\anaconda3\lib\site-packages\scrapy\utils\project.py", line 68, in get_project_settings
+    settings.setmodule(settings_module_path, priority='project')
+  File "C:\Users\LiLith\anaconda3\lib\site-packages\scrapy\settings\__init__.py", line 287, in setmodule
+    module = import_module(module)
+  File "C:\Users\LiLith\anaconda3\lib\importlib\__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "C:\Users\LiLith\Desktop\scrapy\parser_job\settings.py", line 18
+    USER_AGENT =  'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 YaBrowser/23.1.2.928 Yowser/2.5 Safari/537.36'
+                              ^
+SyntaxError: invalid syntax
+
+C:\Users\LiLith\Desktop\scrapy>scrapy crawl hh_ru
+Traceback (most recent call last):
+  File "C:\Users\LiLith\anaconda3\Scripts\scrapy-script.py", line 10, in <module>
+    sys.exit(execute())
+  File "C:\Users\LiLith\anaconda3\lib\site-packages\scrapy\cmdline.py", line 123, in execute
+    settings = get_project_settings()
+  File "C:\Users\LiLith\anaconda3\lib\site-packages\scrapy\utils\project.py", line 68, in get_project_settings
+    settings.setmodule(settings_module_path, priority='project')
+  File "C:\Users\LiLith\anaconda3\lib\site-packages\scrapy\settings\__init__.py", line 287, in setmodule
+    module = import_module(module)
+  File "C:\Users\LiLith\anaconda3\lib\importlib\__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "C:\Users\LiLith\Desktop\scrapy\parser_job\settings.py", line 18
+    USER_AGENT =  'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 YaBrowser/23.1.2.928 Yowser/2.5 Safari/537.36'
+                              ^
+SyntaxError: invalid syntax
+
+C:\Users\LiLith\Desktop\scrapy>scrapy crawl hh_ru
+Traceback (most recent call last):
+  File "C:\Users\LiLith\anaconda3\Scripts\scrapy-script.py", line 10, in <module>
+    sys.exit(execute())
+  File "C:\Users\LiLith\anaconda3\lib\site-packages\scrapy\cmdline.py", line 153, in execute
+    cmd.crawler_process = CrawlerProcess(settings)
+  File "C:\Users\LiLith\anaconda3\lib\site-packages\scrapy\crawler.py", line 289, in __init__
+    super().__init__(settings)
+  File "C:\Users\LiLith\anaconda3\lib\site-packages\scrapy\crawler.py", line 166, in __init__
+    self.spider_loader = self._get_spider_loader(settings)
+  File "C:\Users\LiLith\anaconda3\lib\site-packages\scrapy\crawler.py", line 160, in _get_spider_loader
+    return loader_cls.from_settings(settings.frozencopy())
+  File "C:\Users\LiLith\anaconda3\lib\site-packages\scrapy\spiderloader.py", line 67, in from_settings
+    return cls(settings)
+  File "C:\Users\LiLith\anaconda3\lib\site-packages\scrapy\spiderloader.py", line 24, in __init__
+    self._load_all_spiders()
+  File "C:\Users\LiLith\anaconda3\lib\site-packages\scrapy\spiderloader.py", line 51, in _load_all_spiders
+    for module in walk_modules(name):
+  File "C:\Users\LiLith\anaconda3\lib\site-packages\scrapy\utils\misc.py", line 88, in walk_modules
+    submod = import_module(fullpath)
+  File "C:\Users\LiLith\anaconda3\lib\importlib\__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "C:\Users\LiLith\Desktop\scrapy\parser_job\spiders\hh_ru.py", line 2, in <module>
+    from scrapy.http import HtmlRespons
+ImportError: cannot import name 'HtmlRespons' from 'scrapy.http' (C:\Users\LiLith\anaconda3\lib\site-packages\scrapy\http\__init__.py)
+
+C:\Users\LiLith\Desktop\scrapy>
